@@ -1,0 +1,865 @@
+I want you to build a COMPLETE WEBSITE FROM SCRATCH.
+
+Do not use or copy any previous prototype.
+
+This is my IB MYP Personal Project product, and I want you to create the actual final website based on the requirements below.
+
+Before writing code, think through the complete user experience, information architecture, visual design and technical structure.
+
+Then build the website directly in this repository.
+
+==================================================
+PROJECT
+==================================================
+
+Create an educational teenage mental wellbeing website.
+
+The website should help teenagers:
+
+1. Learn about common mental wellbeing challenges.
+2. Reflect on their own wellbeing through a short 5-question self-check.
+3. Receive personalized, general coping suggestions based on their responses.
+4. Find appropriate support if they feel they need it.
+
+The website must feel like a REAL PRODUCT.
+
+It should not look like:
+- a school worksheet
+- a basic HTML project
+- a generic AI landing page
+- a medical hospital website
+- an AI therapist
+
+It should feel calm, trustworthy, modern and genuinely useful to a teenager.
+
+==================================================
+IMPORTANT PROJECT BOUNDARIES
+==================================================
+
+The product described in my project is intentionally focused.
+
+Do NOT add:
+- user accounts
+- login
+- profiles
+- social media
+- community forums
+- chatbots
+- AI therapy
+- databases
+- dashboards
+- payment systems
+- complicated backend systems
+
+The main product features should be:
+
+LEARN
++
+SELF CHECK
++
+PERSONALISED SUPPORT
++
+SMALL WELLBEING TOOL
++
+RELIABLE SUPPORT INFORMATION
+
+Make those features excellent rather than adding unnecessary features.
+
+==================================================
+TECHNOLOGY
+==================================================
+
+Build a static website.
+
+Use:
+
+HTML5
+CSS3
+Vanilla JavaScript
+
+The website must be deployable directly to GitHub Pages.
+
+Use no backend.
+
+Do not require a database.
+
+Do not require authentication.
+
+Avoid frameworks unless there is a genuinely strong reason.
+
+Keep the code understandable because this is a student Personal Project and I need to understand what I built.
+
+==================================================
+SITE STRUCTURE
+==================================================
+
+Create:
+
+index.html
+learn.html
+self-check.html
+
+styles.css
+script.js
+
+You may create additional files if they make the project cleaner.
+
+==================================================
+VISUAL DIRECTION
+==================================================
+
+Design the website from scratch.
+
+I want a modern, calm visual identity.
+
+Colour direction:
+
+- soft blue
+- muted green
+- warm/off-white
+- dark navy/charcoal text
+
+Do NOT make everything bright blue and green.
+
+Use the colours carefully.
+
+The visual style should feel:
+
+calm
+modern
+minimal
+human
+safe
+teen-friendly
+premium but not flashy
+
+Use:
+
+- generous whitespace
+- beautiful typography
+- rounded cards
+- subtle borders
+- subtle shadows
+- strong visual hierarchy
+- carefully designed buttons
+- tasteful illustrations or simple abstract shapes
+- smooth but restrained animation
+
+Avoid:
+- excessive gradients
+- excessive glassmorphism
+- huge blobs everywhere
+- excessive animations
+- childish cartoon graphics
+- stock-photo-heavy design
+
+==================================================
+BRANDING
+==================================================
+
+Create a simple original brand identity.
+
+Use a memorable but appropriate website name.
+
+Do not use a name that sounds like a medical service.
+
+Create a simple text/logo treatment using HTML/CSS.
+
+If you use an icon, use a lightweight inline SVG or CSS rather than relying on a huge external asset.
+
+==================================================
+HOME PAGE
+==================================================
+
+The homepage should be visually impressive but simple to understand.
+
+HEADER
+
+Include:
+
+Logo/name
+
+Home
+Learn
+Self Check
+
+A clear CTA:
+
+"Check in with yourself"
+
+On mobile, create a proper responsive menu.
+
+--------------------------------------------------
+HERO
+--------------------------------------------------
+
+Create a strong hero section.
+
+Possible structure:
+
+Small label:
+"MENTAL WELLBEING FOR TEENS"
+
+Large headline:
+"Understanding how you're feeling is a good place to start."
+
+Short explanation.
+
+CTA:
+"Start your self-check"
+
+Secondary CTA:
+"Explore the guides"
+
+Add a visual element that makes the hero memorable.
+
+It could be:
+- abstract wellbeing illustration
+- calm interactive visual
+- layered cards
+- simple breathing-inspired visual
+
+Do not use a generic stock photo.
+
+--------------------------------------------------
+WHY THIS EXISTS
+--------------------------------------------------
+
+Briefly explain the purpose of the website.
+
+Make it human.
+
+Do not write a giant paragraph.
+
+--------------------------------------------------
+MENTAL WELLBEING SNAPSHOT
+--------------------------------------------------
+
+Create 3 or 4 statistic cards.
+
+Use real verified statistics if they are already provided in the repository.
+
+If not, create obvious placeholders:
+
+[INSERT VERIFIED STATISTIC]
+
+[INSERT VERIFIED SOURCE]
+
+NEVER invent statistics.
+
+--------------------------------------------------
+HOW IT WORKS
+--------------------------------------------------
+
+Create three visually distinct steps:
+
+01
+Learn
+
+02
+Reflect
+
+03
+Take a step
+
+Each should have a short explanation.
+
+--------------------------------------------------
+FEATURE PREVIEW
+--------------------------------------------------
+
+Show a preview of the Self Check.
+
+For example, create a visual card showing:
+
+"How have you been feeling lately?"
+
+with sample answer buttons.
+
+This is a preview only.
+
+A button should lead to the actual Self Check page.
+
+--------------------------------------------------
+PRIVACY
+--------------------------------------------------
+
+Create a clear privacy section.
+
+Explain:
+
+- no account
+- no name
+- no email
+- no identifying information
+- answers are processed locally
+- answers are not stored by the website
+- answers are not sent to a server
+
+Use accurate wording.
+
+Do not make exaggerated claims such as "we track nothing anywhere."
+
+--------------------------------------------------
+SUPPORT
+--------------------------------------------------
+
+Create a clear support section.
+
+Include placeholders if verified support information is not available:
+
+[INSERT VERIFIED LOCAL SUPPORT INFORMATION]
+
+[INSERT VERIFIED EMERGENCY INFORMATION]
+
+Do NOT invent helpline numbers.
+
+--------------------------------------------------
+FOOTER
+--------------------------------------------------
+
+Include:
+
+- navigation
+- privacy statement
+- educational disclaimer
+- sources link/area
+
+==================================================
+LEARN PAGE
+==================================================
+
+This page should feel like an actual learning resource.
+
+Do not simply place five huge text boxes on a page.
+
+Create an attractive interactive layout.
+
+Include at least five topics:
+
+1. Anxiety and worry
+2. Stress and pressure
+3. Low mood
+4. Sleep difficulties
+5. Body image and self-esteem
+
+Each topic should have:
+
+- short introduction
+- common experiences
+- possible effects on everyday life
+- healthy coping strategies
+- when reaching out may be useful
+- reliable sources
+
+Use expandable cards, tabs or another thoughtful interaction.
+
+The user should be able to scan the page quickly.
+
+Do not diagnose the user.
+
+Never write:
+
+"You have anxiety."
+
+"You are depressed."
+
+Instead:
+
+"Some teenagers may experience..."
+
+"Common experiences can include..."
+
+"If these difficulties continue or affect daily life, speaking with someone may help."
+
+Add a support section at the bottom.
+
+==================================================
+SELF CHECK PAGE
+==================================================
+
+THIS IS THE CORE OF THE WEBSITE.
+
+Make this page feel like the main product.
+
+Before starting, show:
+
+"5 questions.
+A short check-in.
+No account required."
+
+Explain briefly:
+
+"This is a reflection tool, not a medical diagnosis."
+
+Then:
+
+START CHECK-IN
+
+--------------------------------------------------
+QUESTION SYSTEM
+--------------------------------------------------
+
+Exactly 5 questions.
+
+Cover:
+
+1. Mood
+2. Sleep
+3. Interest/enjoyment
+4. Stress/worry
+5. Social connection
+
+Show one question at a time.
+
+Example interface:
+
+QUESTION 2 OF 5
+
+How have you been sleeping recently?
+
+[ Very well ]
+
+[ Mostly okay ]
+
+[ Some difficulty ]
+
+[ A lot of difficulty ]
+
+Then:
+
+BACK
+NEXT
+
+Include a progress indicator.
+
+Make answer selection visually satisfying.
+
+When an answer is selected:
+
+- highlight it
+- update progress appropriately
+- maintain keyboard accessibility
+
+Do not allow Next without an answer.
+
+--------------------------------------------------
+RESULTS
+--------------------------------------------------
+
+The result should NOT simply be:
+
+"Your score is 7."
+
+That is too generic.
+
+Instead identify the areas where the user reported the most difficulty.
+
+For example:
+
+If stress is high:
+
+"Stress seems to be one of the areas affecting you most right now."
+
+Then show relevant suggestions.
+
+If sleep is high:
+
+"Sleep seems to be an area worth paying attention to."
+
+Then show sleep suggestions.
+
+If stress + sleep are high:
+
+"Stress and sleep seem to be the areas affecting you most right now."
+
+Then show suggestions for both.
+
+The result should therefore change depending on the user's actual answers.
+
+--------------------------------------------------
+SUGGESTION SYSTEM
+--------------------------------------------------
+
+Create a JavaScript mapping between each wellbeing area and appropriate general suggestions.
+
+Example:
+
+MOOD
+
+- keep a manageable routine
+- spend time doing something you normally enjoy
+- speak to someone you trust
+
+SLEEP
+
+- keep a consistent sleep schedule
+- create a short wind-down routine
+- reduce stimulating activities before bed
+
+ENJOYMENT
+
+- start with small enjoyable activities
+- avoid expecting yourself to fix everything immediately
+- stay connected with supportive people
+
+STRESS
+
+- break large tasks into smaller steps
+- take short breaks
+- try slow breathing
+- talk to someone if pressure becomes difficult to manage
+
+SOCIAL CONNECTION
+
+- message someone you trust
+- spend time with supportive people
+- consider speaking to a counsellor or trusted adult
+
+These are general wellbeing suggestions.
+
+Do not make medical claims.
+
+--------------------------------------------------
+RESULT DESIGN
+--------------------------------------------------
+
+Make the result page beautiful.
+
+Include:
+
+A clear heading.
+
+A short personalized summary.
+
+"Things you could try"
+
+Suggestion cards.
+
+"Learn more"
+
+Links to relevant sections of the Learn page.
+
+"Need more support?"
+
+Support information.
+
+"60 Second Reset"
+
+Link/button to the breathing tool.
+
+"Start Again"
+
+Button to reset the assessment.
+
+Always display:
+
+"This self-check is for reflection and education only. It is not a medical diagnosis."
+
+==================================================
+60 SECOND RESET
+==================================================
+
+Create a simple interactive breathing exercise.
+
+Name:
+
+"60 Second Reset"
+
+When started:
+
+- show a calm circle
+- inhale phase
+- exhale phase
+- visible instruction
+- timer
+- Start
+- Stop
+
+Use subtle animation.
+
+Respect:
+
+prefers-reduced-motion
+
+When reduced motion is enabled, provide a simple text/timer version.
+
+Do not claim that the exercise treats anxiety or another medical condition.
+
+==================================================
+PRIVACY IMPLEMENTATION
+==================================================
+
+This is extremely important.
+
+Assessment answers must exist only in JavaScript memory.
+
+DO NOT use:
+
+localStorage
+sessionStorage
+cookies
+databases
+backend requests
+analytics
+tracking
+external APIs
+
+Do not send answers anywhere.
+
+When "Start Again" is clicked:
+
+completely reset the answers.
+
+When the page is refreshed:
+
+answers disappear.
+
+Do not request:
+
+name
+email
+phone number
+school
+location
+account
+
+==================================================
+SAFETY
+==================================================
+
+This website must NEVER diagnose.
+
+Do not use:
+
+"You have depression."
+
+"You have anxiety."
+
+"Your diagnosis is..."
+
+"You have a mental health disorder."
+
+Do not provide a probability of having a disorder.
+
+Do not make the self-check look like a clinical test.
+
+Use:
+
+"Your answers suggest..."
+
+"It looks like..."
+
+"This may be an area worth paying attention to."
+
+"Consider speaking with someone you trust if this continues or begins affecting your daily life."
+
+==================================================
+ACCESSIBILITY
+==================================================
+
+Build accessibility into the website.
+
+Include:
+
+- semantic HTML
+- logical heading hierarchy
+- keyboard navigation
+- visible focus states
+- accessible answer buttons
+- sufficient colour contrast
+- appropriate labels
+- screen-reader-friendly progress
+- skip-to-content link
+- reduced-motion support
+
+The quiz must be fully usable with a keyboard.
+
+Update the progress indicator's accessibility information as questions change.
+
+==================================================
+RESPONSIVE DESIGN
+==================================================
+
+Design mobile-first.
+
+Test the design conceptually at:
+
+375px
+430px
+768px
+1024px
+1440px
+
+There must be:
+
+- no horizontal scrolling
+- no broken cards
+- no overflowing text
+- no tiny buttons
+- no broken navigation
+- no quiz layout problems
+
+The mobile experience should feel intentionally designed, not like a desktop website squeezed onto a phone.
+
+==================================================
+ANIMATION
+==================================================
+
+Use subtle animations for:
+
+- page sections appearing
+- cards
+- quiz transitions
+- progress
+- selected answers
+- breathing exercise
+
+Keep them restrained.
+
+The website should still feel good with animations disabled.
+
+==================================================
+CONTENT
+==================================================
+
+Use the information and research already provided in this project if available.
+
+Do not invent:
+
+- medical statistics
+- research findings
+- sources
+- helpline numbers
+- counsellor details
+
+For missing information use obvious placeholders.
+
+==================================================
+NO EM DASH
+==================================================
+
+Do not use the em dash character anywhere.
+
+Do not use:
+
+—
+
+Use commas, colons, parentheses, semicolons or normal hyphens instead.
+
+==================================================
+FINAL QUALITY STANDARD
+==================================================
+
+I want the finished result to look like something I could genuinely publish online.
+
+Not a basic student website.
+
+Not a fake startup.
+
+Not an overcomplicated app.
+
+A focused, polished wellbeing website with one genuinely useful interactive self-check.
+
+The user should be able to understand the website within seconds.
+
+The self-check should be the most useful part.
+
+==================================================
+BUILD PROCESS
+==================================================
+
+Before coding:
+
+1. Plan the information architecture.
+2. Plan the visual system.
+3. Plan the self-check logic.
+4. Plan the file structure.
+
+Then build everything.
+
+Do not stop at a wireframe.
+
+Do not give me snippets and tell me to finish them.
+
+Actually create the complete website.
+
+==================================================
+FINAL QA
+==================================================
+
+After building it, inspect the entire project.
+
+Check:
+
+HOME
+- all links work
+- CTA buttons work
+- mobile navigation works
+- statistics have sources/placeholders
+- support section exists
+
+LEARN
+- all five topics exist
+- interactions work
+- content is readable
+- support section exists
+
+SELF CHECK
+- exactly five questions
+- one question at a time
+- answer validation works
+- Back works
+- Next works
+- progress works
+- results work
+- results change based on responses
+- suggestions match the user's strongest areas
+- Start Again works
+- breathing tool works
+
+PRIVACY
+- no localStorage
+- no sessionStorage
+- no cookies
+- no database
+- no answer transmission
+- no identifying information
+
+SAFETY
+- no diagnosis
+- disclaimer visible
+- support information visible
+
+ACCESSIBILITY
+- keyboard works
+- focus states work
+- skip link works
+- reduced motion works
+- progress is accessible
+
+RESPONSIVENESS
+- phone
+- tablet
+- desktop
+
+CODE
+- no console errors
+- no broken links
+- no missing assets
+- no unnecessary dependencies
+
+==================================================
+FINAL RESPONSE
+==================================================
+
+When you finish:
+
+1. Tell me what you built.
+2. List the files.
+3. Explain the main interactive features.
+4. List any placeholders I still need to replace with verified information.
+5. Tell me what you tested.
+6. Tell me any issue that remains.
+
+Do not claim that something was tested if you did not actually test or inspect it.
